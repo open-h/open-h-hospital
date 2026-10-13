@@ -1,4 +1,4 @@
-![Open-H Initiative](assets/open_h_header.jpg)
+![Open-H Initiative](assets/openh_hospital_logo_v4_fatcross_v2.png)
 
 <div align="center">
 
@@ -15,18 +15,7 @@
 
 ## How to Participate
 
-Visit the [Open-H website](https://www.open-h.org/) for a general overview of the initiative.
-
-> [!NOTE]
-> **Clinicians** interested in contributing through annotation should go through the [clinician participation section](https://www.open-h.org/#participate) of the Open-H website. The data contribution workflow below is intended for teams contributing datasets.
-
-1. **Review the Request for Proposals**  
-   Read the [Open-H RFP](assets/open-h-rfp.pdf) to confirm your proposed dataset aligns with the initiative. The RFP outlines the technical scope, eligibility, and evaluation criteria for proposal submissions reviewed by the Open-H-Hospital steering committee.
-
-2. **Complete the Onboarding Form**  
-   Develop your proposal describing the dataset, collection methodology, and specific tasks, following the instructions in the RFP. Submit it through the [collaborator onboarding form](https://docs.google.com/forms/d/1mM5NfEqXTkXVETIbmFzH_1n4l25z6prZt61LtUwX4Us/viewform) to be considered as a collaborator in the v2 effort.
-
-Once your proposal is approved, the Open-H team will reach out with the next steps to onboard you as a collaborator.
+Visit the [Open-H website](https://www.open-h.org/) for a general overview of Open-H.
 
 ## 🚀 LeRobot Installation
 

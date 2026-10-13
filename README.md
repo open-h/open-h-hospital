@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Open-H Initiative v2: Data Contribution How-To Guide
+# Open-H Initiative: Data Contribution How-To Guide
 
 [![Website](https://img.shields.io/badge/Open--H-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.open-h.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YZEhNcTHtc)
@@ -12,25 +12,6 @@
 [![Hugging Face Dataset](https://img.shields.io/static/v1?label=Hugging%20Face&message=Dataset%20live&color=yellow&style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment)
 
 </div>
-
-> [!IMPORTANT]
-> **This is Open-H-Hospital v2.**
->
-> Open-H-Hospital v1 is live on Hugging Face:  
-> https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment
->
-> For v2, the project has migrated to the newer LeRobot dataset format (LeRobot v0.6.0, dataset format v3.0). The v1 codebase remains available under the `open-h-v1` tag.
->
-> **Want to join the v2 effort?** See [How to Participate](#how-to-participate).
-
-This guide provides a comprehensive overview of how to contribute meaningful data to the Open-H initiative, ensuring consistency and quality across all contributions.
-
-## 📦 Dataset Release
-
-**Open-H-Hospital v1 is available on Hugging Face:**  
-https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment
-
-The v1 release marks the first public version of the Open-H-Hospital dataset, a community-driven collection of paired video and kinematics data for healthcare robotics. *This repository now hosts the **v2 effort**.*
 
 ## How to Participate
 

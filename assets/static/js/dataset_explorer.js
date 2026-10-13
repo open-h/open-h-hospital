@@ -1,5 +1,5 @@
 /* =========================================================================
- * Open-H-Embodiment — Dataset Explorer
+ * Open-H-Hospital — Dataset Explorer
  * Loads rows from assets/static/data/table_rows.json and renders a
  * filterable, sortable table with per-row and bulk `hf download` commands
  * and directory-level Hugging Face links.

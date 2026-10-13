@@ -1,11 +1,11 @@
 ---
 name: dataset-conversion
-description: Help a contributor convert healthcare robotics data (HDF5, Zarr, ROS bags, CSV plus frames) into the LeRobot v3.0 dataset format accepted by Open-H-Embodiment. Use when asked to convert, format, or prepare data for submission.
+description: Help a contributor convert healthcare robotics data (HDF5, Zarr, ROS bags, CSV plus frames) into the LeRobot v3.0 dataset format accepted by Open-H-Hospital. Use when asked to convert, format, or prepare data for submission.
 ---
 
 # Dataset Conversion
 
-Convert contributor source data into a LeRobot format v3.0 dataset ready for Open-H-Embodiment submission. Use the pinned package `lerobot[dataset]==0.6.0` (Python >= 3.12; the `[dataset]` extra is required, and the package version and the dataset format version are separate versioning schemes). Target layout: `meta/info.json` (codebase_version "v3.0"), `meta/stats.json`, `meta/tasks.parquet`, `meta/episodes/chunk-*/file-*.parquet`, data files that aggregate multiple episodes at `data/chunk-*/file-*.parquet`, and videos at `videos/<camera_key>/chunk-*/file-*.mp4`.
+Convert contributor source data into a LeRobot format v3.0 dataset ready for Open-H-Hospital submission. Use the pinned package `lerobot[dataset]==0.6.0` (Python >= 3.12; the `[dataset]` extra is required, and the package version and the dataset format version are separate versioning schemes). Target layout: `meta/info.json` (codebase_version "v3.0"), `meta/stats.json`, `meta/tasks.parquet`, `meta/episodes/chunk-*/file-*.parquet`, data files that aggregate multiple episodes at `data/chunk-*/file-*.parquet`, and videos at `videos/<camera_key>/chunk-*/file-*.mp4`.
 
 ## Procedure
 

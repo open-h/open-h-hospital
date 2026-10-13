@@ -14,9 +14,9 @@
 </div>
 
 > [!IMPORTANT]
-> **This is Open-H-Embodiment v2.**
+> **This is Open-H-Hospital v2.**
 >
-> Open-H-Embodiment v1 is live on Hugging Face:  
+> Open-H-Hospital v1 is live on Hugging Face:  
 > https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment
 >
 > For v2, the project has migrated to the newer LeRobot dataset format (LeRobot v0.6.0, dataset format v3.0). The v1 codebase remains available under the `open-h-v1` tag.
@@ -27,10 +27,10 @@ This guide provides a comprehensive overview of how to contribute meaningful dat
 
 ## 📦 Dataset Release
 
-**Open-H-Embodiment v1 is available on Hugging Face:**  
+**Open-H-Hospital v1 is available on Hugging Face:**  
 https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment
 
-The v1 release marks the first public version of the Open-H-Embodiment dataset, a community-driven collection of paired video and kinematics data for healthcare robotics. *This repository now hosts the **v2 effort**.*
+The v1 release marks the first public version of the Open-H-Hospital dataset, a community-driven collection of paired video and kinematics data for healthcare robotics. *This repository now hosts the **v2 effort**.*
 
 ## How to Participate
 
@@ -40,7 +40,7 @@ Visit the [Open-H website](https://www.open-h.org/) for a general overview of th
 > **Clinicians** interested in contributing through annotation should go through the [clinician participation section](https://www.open-h.org/#participate) of the Open-H website. The data contribution workflow below is intended for teams contributing datasets.
 
 1. **Review the Request for Proposals**  
-   Read the [Open-H RFP](assets/open-h-rfp.pdf) to confirm your proposed dataset aligns with the initiative. The RFP outlines the technical scope, eligibility, and evaluation criteria for proposal submissions reviewed by the Open-H-Embodiment steering committee.
+   Read the [Open-H RFP](assets/open-h-rfp.pdf) to confirm your proposed dataset aligns with the initiative. The RFP outlines the technical scope, eligibility, and evaluation criteria for proposal submissions reviewed by the Open-H-Hospital steering committee.
 
 2. **Complete the Onboarding Form**  
    Develop your proposal describing the dataset, collection methodology, and specific tasks, following the instructions in the RFP. Submit it through the [collaborator onboarding form](https://docs.google.com/forms/d/1mM5NfEqXTkXVETIbmFzH_1n4l25z6prZt61LtUwX4Us/viewform) to be considered as a collaborator in the v2 effort.

@@ -1,4 +1,4 @@
-# Lint configuration for the Open-H-Embodiment contribution-guide scripts.
+# Lint configuration for the Open-H-Hospital contribution-guide scripts.
 # Run with:  ruff check scripts/
 line-length = 120
 

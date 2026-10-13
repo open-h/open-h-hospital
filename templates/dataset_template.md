@@ -1,5 +1,5 @@
 <!--
-Open-H-Embodiment Dataset README Template (v2.0)
+Open-H-Hospital Dataset README Template (v2.0)
 Please fill out this template and include it as README.md in the ./meta directory of your LeRobot dataset.
 This file helps others understand the context and details of your contribution.
 -->
@@ -194,7 +194,7 @@ observation.meta.joint_positions: [j1, j2, j3, j4, j5, j6, j7]
 
 ### 📋 Standardized Representations
 
-*Open-H-Embodiment v2 standardizes on absolute Cartesian end-effector kinematics as the primary content of `action` and `observation.state`:*
+*Open-H-Hospital v2 standardizes on absolute Cartesian end-effector kinematics as the primary content of `action` and `observation.state`:*
 
 **Primary Action & State Layout:**
 - **`action` / `observation.state`**: Absolute Cartesian end-effector pose with absolute quaternions
@@ -229,4 +229,4 @@ observation.meta.joint_positions: [j1, j2, j3, j4, j5, j6, j7]
 | **Dataset Lead** | `[Name1, Name2, ...]` |
 | **Institution** | `[Your Institution]` |
 | **Contact Email** | `[email1@example.com, email2@example.com, ...]` |
-| **Citation (BibTeX)** | <pre><code>@misc{[your_dataset_name_2025],<br>  author = {[Your Name(s)]},<br>  title = {[Your Dataset Title]},<br>  year = {2025},<br>  publisher = {Open-H-Embodiment},<br>  note = {https://hrpp.research.virginia.edu/teams/irb-sbs/researcher-guide-irb-sbs/identifiers}<br>}</code></pre> |
+| **Citation (BibTeX)** | <pre><code>@misc{[your_dataset_name_2025],<br>  author = {[Your Name(s)]},<br>  title = {[Your Dataset Title]},<br>  year = {2025},<br>  publisher = {Open-H-Hospital},<br>  note = {https://hrpp.research.virginia.edu/teams/irb-sbs/researcher-guide-irb-sbs/identifiers}<br>}</code></pre> |

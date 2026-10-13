@@ -188,7 +188,7 @@ if __name__ == '__main__':
             data=np.asarray(episode_dict[pose_topic], dtype=np.float64),
         )
         # TODO: add your remaining streams (e.g. 'action',
-        # 'observation.state') under the Open-H-Embodiment feature names
+        # 'observation.state') under the Open-H-Hospital feature names
         # before running the LeRobot conversion scripts.
 
     print(f"[INFO] Wrote {len(episode_dict[image_topic])} synchronized "

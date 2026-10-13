@@ -1,11 +1,11 @@
 ---
 name: submission-review
-description: Review an Open-H-Embodiment dataset submission for format compliance, required metadata, Cartesian end-effector kinematics, and hours accounting. Use when asked to review, validate, or grade a contributed dataset.
+description: Review an Open-H-Hospital dataset submission for format compliance, required metadata, Cartesian end-effector kinematics, and hours accounting. Use when asked to review, validate, or grade a contributed dataset.
 ---
 
 # Submission Review
 
-Review a contributed dataset against Open-H-Embodiment v2 requirements. Submissions are LeRobot format v3.0 datasets (the guide pins the `lerobot[dataset]==0.6.0` package; any lerobot >= 0.4.0 can read format v3.0, and the package version and the dataset format version are separate versioning schemes). Contributions are measured in hours of synchronized data against the per-setting minimums in the RFP; trajectory counts are supplementary context only.
+Review a contributed dataset against Open-H-Hospital v2 requirements. Submissions are LeRobot format v3.0 datasets (the guide pins the `lerobot[dataset]==0.6.0` package; any lerobot >= 0.4.0 can read format v3.0, and the package version and the dataset format version are separate versioning schemes). Contributions are measured in hours of synchronized data against the per-setting minimums in the RFP; trajectory counts are supplementary context only.
 
 ## Procedure
 
@@ -100,4 +100,4 @@ Verdict is one of: **accept**, **accept-with-fixes**, **needs-work**.
 1. <concrete, ordered steps the contributor should take>
 ```
 
-Style notes for the review text: initiative names hyphenated (Open-H-Embodiment); hours, not trajectory or episode counts, as the measure of contribution. Technical questions: Nigel Nelson, nigeln@nvidia.com.
+Style notes for the review text: initiative names hyphenated (Open-H-Hospital); hours, not trajectory or episode counts, as the measure of contribution. Technical questions: Nigel Nelson, nigeln@nvidia.com.

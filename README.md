@@ -1,3 +1,6 @@
+[!IMPORTANT]
+**This is a WIP repo for Open-H-Hospital, EDC 2026.10.20.**
+
 ![Open-H Initiative](assets/openh_hospital_logo_v4_fatcross_v2.png)
 
 <div align="center">

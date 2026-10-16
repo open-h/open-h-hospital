@@ -8,11 +8,15 @@
 # Open-H Initiative: Data Contribution How-To Guide
 
 [![Website](https://img.shields.io/badge/Open--H-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.open-h.org/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YZEhNcTHtc)
+[![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/XUMFpuNrv)
+<!--
+
 [![Dataset Explorer](https://img.shields.io/badge/Dataset-Explore%20the%20data-FF6B6B?style=for-the-badge)](https://open-h.github.io/open-h-embodiment/)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.21017-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.21017)
 [![License](https://img.shields.io/badge/License-OpenMDW--1.1-4CAF50?style=for-the-badge)](https://github.com/OpenMDW/OpenMDW/blob/main/1.1/LICENSE.OpenMDW-1.1)
 [![Hugging Face Dataset](https://img.shields.io/static/v1?label=Hugging%20Face&message=Dataset%20live&color=yellow&style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Open-H-Embodiment)
+
+-->
 
 </div>
 
@@ -168,6 +172,7 @@ surgical_dataset = LeRobotDataset.create(
     }
 )
 ```
+<!--
 
 #### Ultrasound Dataset Example
 
@@ -249,6 +254,8 @@ ultrasound_dataset = LeRobotDataset.create(
 ```
 
 [See additional ultrasound dataset configuration example](scripts/conversion/hdf5_to_lerobot.py)
+
+-->
 
 #### Camera Intrinsics
 
@@ -386,10 +393,10 @@ This tool helps identify common issues before submission and ensures your datase
 
 ### Get Help & Connect
 
-- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.gg/YZEhNcTHtc) - Connect with other contributors, ask questions, and share your progress
+- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
 - 🐛 **Report Issues**: Open an issue in this repository for bugs or feature requests
 - 📧 **Direct Support**: Reach out through Discord for immediate assistance
 
 ---
 
-*This guide is part of the Open-H Initiative, working towards advancing healthcare robotics through open collaboration and high-quality datasets.*
+*This guide is part of the Open-H Initiative, working towards advancing healthcare and life sciences innovation through open collaboration and high-quality datasets.*

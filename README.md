@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Open-H Initiative: Data Contribution How-To Guide
+# Open-H Hospital: A How-To Guide to Participate
 
 [![Website](https://img.shields.io/badge/Open--H-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.open-h.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/XUMFpuNrv)
@@ -20,9 +20,19 @@
 
 </div>
 
-## How to Participate
+## Introduction
+
+Welcome to Open-H-Hospital! Open-H-Hospital is a community effort to build open foundations for robotics-mediated hospital workflows.
+
+The primary scope of Open-H-Hospital concerns datasets that inform workflows in, through, and around hospital spaces. Datasets that focus on the surgical field in laparoscopic robotic surgery or endoluminal surgery fall within the scope of the sibling Open-H initiatives: Open-H-Embodiment and Open-H-Endoluminal initiative, and should instead be submitted at github.com/open-h/open-h-endoluminal respectively.
 
 Visit the [Open-H website](https://www.open-h.org/) for a general overview of Open-H.
+
+## Get Help & Connect
+
+- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
+- 🐛 **Report Issues**: Open an issue in this GitHub repository for bugs or feature requests
+- 📧 **Direct Support**: Reach out through Discord for immediate assistance
 
 ## 🚀 LeRobot Installation
 
@@ -390,12 +400,6 @@ python scripts/validation/validate_formatting.py /path/to/your/dataset
 ```
 
 This tool helps identify common issues before submission and ensures your dataset can be easily integrated.
-
-### Get Help & Connect
-
-- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
-- 🐛 **Report Issues**: Open an issue in this repository for bugs or feature requests
-- 📧 **Direct Support**: Reach out through Discord for immediate assistance
 
 ---
 

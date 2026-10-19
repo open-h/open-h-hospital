@@ -24,9 +24,7 @@
 
 Welcome to Open-H-Hospital! Open-H-Hospital is a community effort to build open foundations for robotics-mediated hospital workflows.
 
-The primary scope of Open-H-Hospital concerns datasets that inform workflows in, through, and around hospital spaces. Datasets that focus on the surgical field in laparoscopic robotic surgery or endoluminal surgery fall within the scope of the sibling Open-H initiatives: Open-H-Embodiment and Open-H-Endoluminal initiative, and should instead be submitted at github.com/open-h/open-h-endoluminal respectively.
-
-Visit the [Open-H website](https://www.open-h.org/) for a general overview of Open-H.
+The primary scope of Open-H-Hospital concerns datasets that inform workflows in, through, and around hospital spaces. Datasets that focus on the surgical field in laparoscopic robotic surgery or endoluminal surgery fall within the scope of the sibling Open-H initiatives: Open-H-Embodiment and Open-H-Endoluminal. Visit the [Open-H website](https://www.open-h.org/) for information on these initiatves as well as a general overview of Open-H.
 
 ## Get Help & Connect
 

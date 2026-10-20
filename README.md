@@ -1,11 +1,6 @@
-![Open-H Initiative](assets/openh_hospital_logo_v4_fatcross_v2.png)
-
-> [!NOTE]
-> **This is a WIP repository in preparation for the release of Open-H-Hospital on 2026.10.20.**
-
 <div align="center">
 
-# Open-H Hospital: A How-To Guide to Participate
+# Welcome to Open-H Hospital!
 
 [![Website](https://img.shields.io/badge/Open--H-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.open-h.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/XUMFpuNrv)
@@ -20,6 +15,11 @@
 
 </div>
 
+![Open-H Initiative](assets/openh_hospital_logo_v4_fatcross_v2.png)
+
+> [!NOTE]
+> **This repository is a WIP. Please check back regularly for updates.**
+
 ## Introduction
 
 Welcome to Open-H-Hospital! Open-H-Hospital is a community effort to build open foundations for robotics-mediated hospital workflows.
@@ -28,9 +28,15 @@ The primary scope of Open-H-Hospital concerns datasets that inform workflows in,
 
 ## Get Help & Connect
 
-- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
-- 🐛 **Report Issues**: Open an issue in this GitHub repository for bugs or feature requests
-- 📧 **Direct Support**: Reach out through Discord for immediate assistance
+💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
+🐛 **Report Issues**: Open an issue in this GitHub repository for bugs or feature requests
+📧 **Direct Support**: Reach out through Discord for immediate assistance
+
+<div align="center">
+
+# Data Guidelines and Tools
+
+</div>
 
 ## 🚀 LeRobot Installation
 

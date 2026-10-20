@@ -88,5 +88,3 @@ Fix every ERROR and rerun until the report is clean; address WARNINGs where prac
 - **Non-ASCII feature keys**: feature names must be plain ASCII, dot-separated, exactly matching the conventions in step 4; smart quotes or accented characters break loaders.
 - **Joint-only kinematics**: v2 requires absolute Cartesian end-effector kinematics in `action` and `observation.state`. Joint-space data alone does not qualify; derive the Cartesian pose via forward kinematics before conversion and keep the joints at `observation.meta.joint_positions`.
 - **Raw unlabeled video**: not accepted. Every episode needs task text stating the task and target. Video-only sources with inferred poses are a case-by-case exception decided by steering review, with the pose accuracy and derivation method documented in `meta/README.md`.
-
-Technical questions: Nigel Nelson, nigeln@nvidia.com.

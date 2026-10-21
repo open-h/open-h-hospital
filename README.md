@@ -28,9 +28,9 @@ The primary scope of Open-H-Hospital concerns datasets that inform workflows in,
 
 ## Get Help & Connect
 
-💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
-🐛 **Report Issues**: Open an issue in this GitHub repository for bugs or feature requests
-📧 **Direct Support**: Reach out through Discord for immediate assistance
+- 💬 **Join our Discord**: [discord.gg/YZEhNcTHtc](https://discord.com/invite/XUMFpuNrv) - Connect with other contributors, ask questions, and share your progress
+- 🐛 **Report Issues**: Open an issue in this GitHub repository for bugs or feature requests
+- 📧 **Direct Support**: Reach out through Discord for immediate assistance
 
 <div align="center">
 

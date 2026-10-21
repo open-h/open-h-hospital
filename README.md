@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Open--H-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.open-h.org/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/XUMFpuNrv)
+
 <!--
 
 [![Dataset Explorer](https://img.shields.io/badge/Dataset-Explore%20the%20data-FF6B6B?style=for-the-badge)](https://open-h.github.io/open-h-embodiment/)
@@ -25,6 +26,10 @@
 Welcome to Open-H-Hospital! Open-H-Hospital is a community effort to build open foundations for robotics-mediated hospital workflows.
 
 The primary scope of Open-H-Hospital concerns datasets that inform workflows in, through, and around hospital spaces. Datasets that focus on the surgical field in laparoscopic robotic surgery or endoluminal surgery fall within the scope of the sibling Open-H initiatives: Open-H-Embodiment and Open-H-Endoluminal. Visit the [Open-H website](https://www.open-h.org/) for information on these initiatves as well as a general overview of Open-H.
+
+## 📣 Updates
+
+- 📄 **October 21 2026:** The [Open-H-Hospital RFP](https://github.com/open-h/open-h-hospital/blob/main/assets/Open-H-Hospital-RFP-v1.docx.pdf) is available for review!
 
 ## Get Help & Connect
 

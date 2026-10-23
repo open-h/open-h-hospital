@@ -30,6 +30,7 @@ The primary scope of Open-H-Hospital concerns datasets that inform workflows in,
 ## 📣 Updates
 
 - 📄 **October 21 2026:** The [Open-H-Hospital RFP](https://github.com/open-h/open-h-hospital/blob/main/assets/Open-H-Hospital-RFP-v1.docx.pdf) is available for review!
+- 🖋️ **October 23 2026:** Submit your proposal for Open-H-Hospital [using this form](https://forms.gle/VUmJ5CLhxQCKxZD66)!
 
 ## Get Help & Connect
 
